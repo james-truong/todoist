@@ -12,3 +12,8 @@ Because this is such an immense project, I decided to document my personal thoug
 - Seeing the basic process of instantiating the HTML document and separting the sidebar, nav, header in the Layout folder.
 
 - Frustrations and discoveries: Seeing nested ternary operators was very challenging - I'm not sure if I will ever try to use them as he did in the tutorial to be honest. Long lines of if statements is always confusing and unreadable. Still trying to see why he called unsubscribe() as a method because I think it's a variable... maybe I'm wrong.
+
+## Part 2:
+- SCSS setup along with context as well as firebase indexing for unique IDs.
+Reflection: it's comforting to see that such an easy task such as deleting is actually complicated, and that things that may seem hard to me, are actually hard to others as well! Basic logistic for deleting -> delete project off firebase -> that will run the context of getProject -> which will fire off the hook that it imports -> which will send back to the local state. Not so easy anymore eh?
+- Apart from that, I will probably have to revisit context in the react docs to get a more solid understanding of Provider and Taker.
