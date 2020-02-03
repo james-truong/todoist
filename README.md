@@ -20,3 +20,7 @@ Reflection: it's comforting to see that such an easy task such as deleting is ac
 
 ## Part 3:
 - Building major functionality finally using the hooks that we built in part 1 & 2. There was a lot of logic separating each category, adding each task to the correct category, etc. It was nice to see that even a simple feature could take hours to do implement properly. There were also lots of conditional rendering, raw JSX templating and a nice design perspective to see how a typical programmer would solve things.
+
+## Part 4:
+
+- Spent the last half of the course testing for accessibility and jest component testing. Wow, never realized how much time could be put into end product testing. I feel like this is a very niche skill to have especially as a junior but regardless, it will be beneficial for me to learn as I grow my career. Coverage testing and Storybook testing isn't something new to me so it was nice to see that LightHouse has taught things that are very applicable. Project complete!
